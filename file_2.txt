@@ -1,2 +1,3 @@
 A second file?
 How odd.
+Look at this, an inserted line of text!
